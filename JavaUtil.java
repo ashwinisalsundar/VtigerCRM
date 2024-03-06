@@ -14,11 +14,6 @@ public class JavaUtil {
 		int ran = r.nextInt(500);
 		return ran;
 	}
-public int getRandomNumber() {
-		
-		Random r = new Random();
-		int ran = r.nextInt(500);
-		return ran;
-	}
+
 
 }
