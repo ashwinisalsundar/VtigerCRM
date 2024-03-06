@@ -1,1 +1,1 @@
-package VtigerCRM;
+package CommonUtils;
